@@ -1,0 +1,2 @@
+home:
+barra de pesquisa
